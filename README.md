@@ -1,4 +1,4 @@
-# Google Maps API
+# Google Maps API - Directions Service
 ---
 ## Project Summary
 ---
